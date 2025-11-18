@@ -18,11 +18,3 @@ The notebook includes:
 The original notebook code is preserved exactly as written; only the file and repository names were adapted for clarity.
 
 ---
-
-## Repository Structure
-
-```text
-emnist-neural-representations/
-├── README.md
-└── notebooks/
-    └── emnist_neural_representations.ipynb
