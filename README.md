@@ -1,6 +1,7 @@
 # emnist-neural-representations
 Neural network analysis of EMNIST handwritten characters: training, hidden-layer representations, robustness, and visualization.
 
+---
 
 # EMNIST Neural Representations
 
@@ -20,3 +21,8 @@ The original notebook code is preserved exactly as written; only the file and re
 
 ## Repository Structure
 
+```text
+emnist-neural-representations/
+├── README.md
+└── notebooks/
+    └── emnist_neural_representations.ipynb
