@@ -1,4 +1,4 @@
-![EMNIST](figures/EMNIST.png)
+![EMNIST](EMNIST.png)
 # EMNIST Neural Representations
 
 This repository contains a Jupyter Notebook exploring how a neural network learns and organizes internal representations from the **EMNIST** handwritten character dataset.
