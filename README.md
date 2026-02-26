@@ -9,7 +9,4 @@ The notebook includes:
 - visualizing hidden-layer representations  
 - analyzing class separability  
 - testing robustness and generalization  
-
-The original notebook code is preserved exactly as written; only the file and repository names were adapted for clarity.
-
 ---
